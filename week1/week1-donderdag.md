@@ -11,8 +11,8 @@
 - Wireframe hermaakt a.h.v feedback met het team.
 - Een discussie gehouden over wireframe flow design
 
-
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - niets
