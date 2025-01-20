@@ -9,13 +9,13 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 - Wireframe hermaakt a.h.v feedback met het team.
-- Een discussie gehouden over wireframe flow design
+- Een discussie gehouden over de vragen layout wireframe flow design.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- niets
+- Functies van buttons op specifieke plaatsen niet veranderen. (Dit kan leiden tot verwaring bij gebruikers)
 
 ---
 
