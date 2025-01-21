@@ -1,6 +1,6 @@
 # Logboek
 
-- 17/01/2025
+- 24/01/2025
 - sam morre
 - De Badeendjes
 
@@ -23,4 +23,5 @@
 
 - Ik voel me oprecht niet blij, ben moe.
 - 😔
+
 

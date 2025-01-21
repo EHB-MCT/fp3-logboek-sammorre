@@ -1,6 +1,6 @@
 # Logboek
 
-- 15/01/2025
+- 22/01/2025
 - sam morre
 - De Badeendjes
 
@@ -10,8 +10,6 @@
 - Brainstorm concept bedacht met het team. (ai die aanbevellingen maakt)
 - rollen verdeeld voor week1 (ik help met wireframe)
 - Met ephram, stijn en ramon een wireframe gemaakt.
-- Wireframe footer gemaakt
-- Wireframe header gemaakt
 
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
