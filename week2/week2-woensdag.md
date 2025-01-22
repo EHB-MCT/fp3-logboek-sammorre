@@ -9,8 +9,10 @@
 
 - Wireframe startpage AI vraag design tussen info en menu
 - Wireframe header en icons veranderd (voor consistency)
-- Wireframe tekst grootte aangepast (voor consistency)
+- Wireframe alle tekst grootte aangepast (voor consistency)
+- Wireframe buttons gelijk gemaakt (voor consistency)
 - Wireframe hamburger-menu component gemaakt
+- Wireframe aangepast met stijn en ramon
 
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
