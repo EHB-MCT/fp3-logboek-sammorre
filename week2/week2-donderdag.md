@@ -6,8 +6,8 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- HTML contact page gemaakt
-- HTML vragen page gemaakt
+- HTML contact page design gemaakt
+- HTML vragen page design gemaakt
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
@@ -17,5 +17,5 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- Ik voel me uitgeput.
-- 😔
+- ik voel me ok.
+- 👍
