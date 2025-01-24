@@ -6,8 +6,8 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- HTML contact page design gemaakt
-- HTML vragen page design gemaakt
+- conformation.html design gemaakt, vragen 1 tot 4
+- vragen.html design gemaakt
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
