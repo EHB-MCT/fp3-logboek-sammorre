@@ -7,17 +7,17 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- Schets wireframe structuur hermaakt met het team (grootste probleem, menu)
-- geleerd over user testing
+- vragen.html titel hernaamt
+- Calender.js active class toegevoegd voor gekozen leverings datum
+- Flow vragen.html herwerkt
 
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- geleerd over user testing
-- hamburger menu mobile meestal links
+- Via de buddychecks heb ik geleerd dat ik meer moeite moet doen voor het project
 
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- ik voel me ok.
-- 👍
+- ik voel me slecht.
+- 😔
