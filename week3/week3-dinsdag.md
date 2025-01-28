@@ -7,18 +7,21 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- wireframe contactPage layout variant
-- wireframe icons geplaatst(vb conformatiepage, terugknop bij items, ...)
-- Feedback gegeven over layout wireframe (zaalverhuur, progressbar, ...)
-- Wireframe prototype paginas verbonden
-- taken woensdag verdeeld
-
+- question.js fix datum weergaven bij het selecteren
+- question.js datum toevoegen op form indien gekozen
+- question.js uur toevoegen op form indien gekozen
+- question.js form bericht geplaatst in een object voor de database
+- question.js radio buttons laten werken
+- buttons.css radio-group buttons css toegevoegd
+- calender.css timepicker width aangepast
+- vragen branch gemerged naar de main
+- main branch merge conflict opgelost (grootste probleem calender.css, oplossing alles in calender.css aansprreken met de div #questionPage) 
+- A2 affiche inspiratie opzoeken en plaatsten op figma
+- 3 A2 prototypes gemaakt
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- leren werken met componenten Figma
-- er is een ga naar vorige pagina functie in prototype
-- groote bedrijven zoals google maaken een components guides voor consistency
+- geleerd hoe je een standaard timepicker kan maken
 
 
 ## 3) Wat is mijn gevoel over vandaag?
