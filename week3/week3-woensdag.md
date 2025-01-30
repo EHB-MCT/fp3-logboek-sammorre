@@ -18,6 +18,7 @@
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - geleerd wat de reportValidity() functie is.
+- Ik heb geleerd uit de buddycheck feedback dat ik beter moet communiceren over wat ik gedaan heb zowel tijdens als na de project uren.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
