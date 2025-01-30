@@ -1,6 +1,6 @@
 # Logboek
 
-- 24/01/2025
+- 31/01/2025
 - sam morre
 - De Badeendjes
 
