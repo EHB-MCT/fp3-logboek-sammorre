@@ -14,6 +14,7 @@
 - question.js q1 datum required gemaakt.
 - question.js bestel overzicht comments gefixed
 - Tekst presentatie verdeeld met het team
+- presentatie geleerd
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
